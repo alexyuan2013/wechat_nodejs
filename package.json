@@ -21,7 +21,9 @@
   "dependencies": {
     "app-root-path": "^2.0.1",
     "body-parser": "^1.17.2",
+    "ejs": "^2.5.6",
     "express": "^4.15.3",
+    "request": "^2.81.0",
     "wechat": "^2.1.0"
   }
 }
